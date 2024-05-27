@@ -8,3 +8,7 @@ Atividades e Trabalhos
 
 ![image](https://github.com/luantutugithub/INFORMATICA-/assets/162647449/272d3095-48a5-46bf-88b2-1e3392a36f8e)
 
+![Captura de tela LUAN 1](https://github.com/luantutugithub/INFORMATICA-/assets/162647449/7d17530a-53a6-494e-ab24-c8136c63f339)
+![Captura de tela LUAN 2](https://github.com/luantutugithub/INFORMATICA-/assets/162647449/568f1e4e-b5e6-41d1-99f6-9148e20eeb2a)
+![Captura de tela LUAN 3](https://github.com/luantutugithub/INFORMATICA-/assets/162647449/c3092b8e-b8ec-422a-8ffb-7451ab6b6e22)
+https://apps.powerapps.com/play/e/default-cf72e2bd-7a2b-4783-bdeb-39d57b07f76f/a/78e1ea92-b342-4630-a588-ef4f2be24c1f?tenantId=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&hint=b5f8faba-59ed-47d0-a09a-1424650976b8&sourcetime=1716852022198
